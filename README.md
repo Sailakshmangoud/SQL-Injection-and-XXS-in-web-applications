@@ -1,5 +1,5 @@
 
-# Sitadel - Web Application Security Scanner
+# Lakshman - Web Application Security Scanner
 
 ```bash
    _   _   _         _____ _                 _       _
@@ -44,7 +44,7 @@ It allows more flexibility for you to write new modules and implement new featur
 git clone https://github.com/shenril/Sitadel.git
 cd Sitadel
 pip3 install .
-python sitadel.py --help
+python Lakshman.py --help
 ```
 
 ## Features
@@ -98,7 +98,7 @@ python sitadel.py --help
 ## Usage
 
 ```bash
-sitadel.py [-h] [-r {0,1,2}] [-ua USER_AGENT] [--redirect]
+Lakshman.py [-h] [-r {0,1,2}] [-ua USER_AGENT] [--redirect]
            [--no-redirect] [-t TIMEOUT] [-c COOKIE] [-p PROXY]
            [-f FINGERPRINT [MODULE ...]] [-a ATTACK [MODULE ...]]
            [--config CONFIG] [-v] [--version]
