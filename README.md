@@ -1,5 +1,17 @@
 
 # Lakshman - Web Application Security Scanner
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : S SAI LAKSHMAN GOUD
+
+**INTERN ID** : CT08LJQ
+
+**DOMAIN** : CYBER SECURITY & ETHICAL HACKING
+
+
+**BATCH DURATION** : January 30th,2025 to March 1st,2025
+
+**mentor name** : NEELA SANTHOSH KUMAR
 
 
  ![python3](https://img.shields.io/badge/python-3.6-green.svg) [![Build Status](https://travis-ci.org/shenril/Sitadel.svg?branch=master)](https://travis-ci.org/shenril/Sitadel) ![license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
