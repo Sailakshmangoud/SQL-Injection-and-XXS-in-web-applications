@@ -1,15 +1,6 @@
 
 # Lakshman - Web Application Security Scanner
 
-```bash
-   _   _   _         _____ _                 _       _
-  | |_| |_| |      / _____|_)  _            | |     | |
-  |         |     ( (____  _ _| |_ _____  __| |_____| |
-  |    _    |      \____ \| (_   _|____ |/ _  | ___ | |
-  |   |_|   |      _____) ) | | |_/ ___ ( (_| | ____| |
-  |         |     (______/|_|  \__)_____|\____|_____)\_) 
-
-```
 
  ![python3](https://img.shields.io/badge/python-3.6-green.svg) [![Build Status](https://travis-ci.org/shenril/Sitadel.svg?branch=master)](https://travis-ci.org/shenril/Sitadel) ![license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
 
@@ -41,7 +32,7 @@ It allows more flexibility for you to write new modules and implement new featur
 ## Installation
 
 ```bash
-git clone https://github.com/shenril/Sitadel.git
+git clone https://github.com/Sailakshmangoud.git
 cd Sitadel
 pip3 install .
 python Lakshman.py --help
